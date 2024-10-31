@@ -1,0 +1,41 @@
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.webform {
+    color: darkred;
+    font-style: italic;
+}
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: normal;
+    background-color: lightpink;
+}
+
+.firstname {
+color: blueviolet;
+}
+.lastname {
+    color: blueviolet;
+}
+.age {
+    color: blueviolet;
+}
+.gender {
+    color: blueviolet;
+}
+.email {
+    color: blueviolet;
+}
+.submit {
+    padding: 10px;
+    background-color: lightsteelblue;
+    color: darkmagenta;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
